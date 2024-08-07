@@ -1,0 +1,34 @@
+.hero {
+  height: 100vh;
+  width: 100%;
+  padding: 1rem;
+}
+.herocontainer {
+  background: rgba(128, 128, 128, 0.568);
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+  display: flex;
+  padding: 0 6rem;
+  position: relative;
+  align-items: start;
+  justify-content: center;
+  flex-direction: column;
+}
+.heroImg {
+  position: absolute;
+  left: 35%;
+  top: 10%;
+  width: 20rem;
+  transform: rotate(20deg);
+}
+.herotexts {
+  /* line-height: 4px; */
+  display: flex;
+  flex-direction: column;
+}
+.ded {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
