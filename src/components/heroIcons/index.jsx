@@ -23,7 +23,7 @@ const HeroIcons = () => {
           </div>
           <div className="">
             <p className="font-bold">Money Guarantee</p>
-            <p>Free Shipping on all orders</p>
+            <p>30 days Money back</p>
           </div>
         </div>
         <div className="flex gap-5 p-3">
